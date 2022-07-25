@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = th@phytodia.com
+	name = thomas hunckler
